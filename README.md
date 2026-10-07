@@ -29,8 +29,8 @@
 Welcome to the ultimate curated directory of **data security posture management (DSPM) platforms**, **open-source sensitive data discovery tools**, and **data classification frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *Amazon Macie*, *BigID*, and *Varonis*), or self-hostable open-source alternatives (like *Presidio*, *TruffleHog*, and *Nightfall*), this list covers category leaders, PII detection, and privacy-respecting data governance.
 
 **Key Market Context:**
-- **Microsoft Presidio** is the **leading open-source PII detection and anonymization framework**, with **5K+ GitHub stars** and **support for 50+ languages**.
-- **TruffleHog** has **25K+ GitHub stars** and detects **800+ types of secrets**, credentials, and PII across **Git repositories, S3 buckets, and filesystems**.
+- **Microsoft Presidio** is the **leading open-source PII detection and anonymization framework**, with **5K+ GitHub_Stars** and **support for 50+ languages**.
+- **TruffleHog** has **25K+ GitHub_Stars** and detects **800+ types of secrets**, credentials, and PII across **Git repositories, S3 buckets, and filesystems**.
 - **Gitleaks** provides **fast secret detection in Git repositories** with **custom rules and 200+ built-in patterns**.
 
 ---
@@ -70,13 +70,13 @@ Welcome to the ultimate curated directory of **data security posture management 
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[TruffleHog](https://github.com/trufflesecurity/trufflehog)** [![Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers)  
-  **Find, verify, and analyze leaked credentials**, AGPL-3.0 licensed. **25K+ GitHub stars** — **the most popular open-source secret detection tool** . **800+ types of secrets, credentials, and PII** detected . **Scans Git repositories, S3 buckets, filesystems, and CI/CD pipelines** . **Verification** — confirms if credentials are live before alerting . **Custom detectors** for organization-specific patterns . **The definitive open-source sensitive data detection tool** . 🔍
+  **Find, verify, and analyze leaked credentials**, AGPL-3.0 licensed. **25K+ GitHub_Stars** — **the most popular open-source secret detection tool** . **800+ types of secrets, credentials, and PII** detected . **Scans Git repositories, S3 buckets, filesystems, and CI/CD pipelines** . **Verification** — confirms if credentials are live before alerting . **Custom detectors** for organization-specific patterns . **The definitive open-source sensitive data detection tool** . 🔍
 
 - **[Gitleaks](https://github.com/gitleaks/gitleaks)** [![Stars](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social&color=white)](https://github.com/gitleaks/gitleaks/stargazers)  
-  **Detect and prevent hardcoded secrets**, MIT licensed. **20K+ GitHub stars** — **the fastest secret detection in Git repositories** . **200+ built-in patterns** for API keys, tokens, passwords, and credentials . **Custom rules** via TOML configuration . **Pre-commit hooks** for prevention . **The most widely used open-source secret scanner in CI/CD** . 🛡️
+  **Detect and prevent hardcoded secrets**, MIT licensed. **20K+ GitHub_Stars** — **the fastest secret detection in Git repositories** . **200+ built-in patterns** for API keys, tokens, passwords, and credentials . **Custom rules** via TOML configuration . **Pre-commit hooks** for prevention . **The most widely used open-source secret scanner in CI/CD** . 🛡️
 
 - **[Microsoft Presidio](https://github.com/microsoft/presidio)** [![Stars](https://img.shields.io/github/stars/microsoft/presidio?style=social&color=white)](https://github.com/microsoft/presidio/stargazers)  
-  **Context aware, pluggable and customizable data protection and de-identification SDK**, MIT licensed. **5K+ GitHub stars** — **the leading open-source PII detection and anonymization framework** . **50+ languages supported** including English, Spanish, French, German, and Chinese . **PII detection** — names, addresses, credit cards, SSNs, phone numbers, emails, and more . **Anonymization** — redaction, masking, hashing, and encryption . **Pluggable architecture** for custom recognizers . **The standard for open-source PII detection** . 🎯
+  **Context aware, pluggable and customizable data protection and de-identification SDK**, MIT licensed. **5K+ GitHub_Stars** — **the leading open-source PII detection and anonymization framework** . **50+ languages supported** including English, Spanish, French, German, and Chinese . **PII detection** — names, addresses, credit cards, SSNs, phone numbers, emails, and more . **Anonymization** — redaction, masking, hashing, and encryption . **Pluggable architecture** for custom recognizers . **The standard for open-source PII detection** . 🎯
 
 - **[Detect Secrets](https://github.com/Yelp/detect-secrets)** [![Stars](https://img.shields.io/github/stars/Yelp/detect-secrets?style=social&color=white)](https://github.com/Yelp/detect-secrets/stargazers)  
   **An enterprise friendly way of detecting and preventing secrets in code**, Apache-2.0 licensed. **From Yelp** — **the original open-source secret detection tool** . **Plugin-based architecture** for custom detectors . **Baseline management** for gradual adoption . **Used by thousands of organizations** for pre-commit secret scanning . 🔐
